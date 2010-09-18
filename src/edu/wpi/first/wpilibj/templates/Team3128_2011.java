@@ -17,7 +17,7 @@ public class Team3128_2011 extends SimpleRobot
      */
     public void autonomousInit()
     {
-        
+        System.out.println("test");
     }
 
     /**
